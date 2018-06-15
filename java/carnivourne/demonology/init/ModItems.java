@@ -19,6 +19,5 @@ public class ModItems {
 	// Items
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	public static final Item FLOGGING_ROD = new ItemBase("flogging_rod");
-	
-	public static final ItemSword REAPERS_SCYTHE = new ToolSword("reapers_scythe", MATERIAL_REAPERS_METAL);
+	public static final ItemSword REAPERS_BLADE = new ToolSword("reapers_blade", MATERIAL_REAPERS_METAL);
 }
