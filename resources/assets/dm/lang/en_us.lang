@@ -1,0 +1,10 @@
+//Tabs
+itemGroup.demonologytab=Demonology
+
+//Items
+item.flogging_rod.name=Flogging Rod
+
+//Tools
+item.reapers_scythe.name=Reaper's Scythe
+//Blocks
+tile.sacrificial_altar.name=Sacrificial Altar

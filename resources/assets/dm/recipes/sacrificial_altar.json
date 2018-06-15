@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "SOS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 14
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stone",
+            "data": 0
+        },
+        
+        "O":
+        {
+            "item": "minecraft:obsidian"    
+        }
+    },
+    
+    "result":
+    {
+        "item": "dm:sacrificial_altar",
+        "count": 1
+    }
+}

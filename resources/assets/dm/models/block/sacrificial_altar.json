@@ -1,0 +1,11 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "up": "dm:blocks/sacrificial_altar_top",
+       "down": "dm:blocks/sacrificial_altar_bottom",
+       "north": "dm:blocks/sacrificial_altar_side",
+       "south": "dm:blocks/sacrificial_altar_side",
+       "east": "dm:blocks/sacrificial_altar_side",
+       "west": "dm:blocks/sacrificial_altar_side"
+   }
+}
